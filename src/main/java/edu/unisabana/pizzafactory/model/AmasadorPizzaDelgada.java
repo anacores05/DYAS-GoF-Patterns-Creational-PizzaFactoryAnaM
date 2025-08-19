@@ -6,7 +6,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author cesarvefe
+ * 
  */
 public class AmasadorPizzaDelgada {
 
@@ -16,7 +16,6 @@ public class AmasadorPizzaDelgada {
         Logger.getLogger(AmasadorPizzaDelgada.class.getName())
                 .log(Level.INFO, "[@@] Amasando la pizza delgada con masa convencional.");
         
-        //CODIGO DE LLAMADO AL MICROCONTROLADOR
         
     }
     
